@@ -1,5 +1,10 @@
 # WaterReservoir
 
+Project conducted by Daniel Podolecki and Lukas Niederhäuser.
+
+Explanatory Data Analysis of water reservoir levels in Switzerland and of weather data. Additionally,
+forecasting using a random-forest and time-series model.
+
 SUMMARY
 ------------------------------
 
