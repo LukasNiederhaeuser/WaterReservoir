@@ -1,7 +1,7 @@
 # WaterReservoir
 
 SUMMARY
-===================================================================================================
+------------------------------
 
 In the folder "data" you will find all the data which was needed for the report. The corresponding 
 Jupyter Notebook file containing the analysis is named "EDA_Forecasting_Water_Reservoir_Levels".
@@ -9,7 +9,7 @@ Additionally you can find the links to the data sources in the "data" folder.
 
 
 USAGE 
-===================================================================================================
+------------------------------
 
 The analysis requires the user to have Jupyter Notebook installed on his / her computer. Another
 option is to open the .ipynb file on Google Colab, where you can insert all the data and then refer
